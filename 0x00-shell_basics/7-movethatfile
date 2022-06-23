@@ -1,2 +1,2 @@
 #!/bin/bash
-mx /tmp/betty /tmp/my_first_directory
+mx /tmp/betty my_first_directory
